@@ -1,1 +1,3 @@
-4120
+#!/usr/bin/env bash
+# dysplasie its own PID
+echo $$
